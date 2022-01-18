@@ -24,6 +24,8 @@ const HopsView0 = styled.div`
   top: 50%;
   left: 50%;
   font-size: x-small;
+  background-color: #282c34;
+  
 `;
 
 const HopsView1 = styled(HopsView0)`
